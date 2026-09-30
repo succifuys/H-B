@@ -1,5 +1,3 @@
-                                                                   
-
 from __future__ import annotations
 
 import asyncio
@@ -8,7 +6,6 @@ import time
 from typing import Any
 
 import flet as ft
-
 import generators
 from network import NetworkClient
 
