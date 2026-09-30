@@ -1,0 +1,4 @@
+flet[all]==0.86.5
+fastapi>=0.115.0,<1.0.0
+uvicorn[standard]>=0.34.0,<1.0.0
+websockets>=15.0,<17.0
